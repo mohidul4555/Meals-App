@@ -30,6 +30,14 @@ Demo :
 https://mohidul4555.github.io/Meals-App/
 
 
+
 Author :
 ------------
 Mohidul Islam
+
+Sources:<br>
+---------
+The Meal API - https://www.themealdb.com/api.php <br>
+Google <br>
+Mdn Web Docs - https://developer.mozilla.org/en-US/ <br>
+YouTube
