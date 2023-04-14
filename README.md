@@ -20,6 +20,13 @@ Make this list persistent (should have the same number of meals before and after
 Remove from favourites button: Each meal should have remove from favourites button, clicking on which should remove that meal from the list.
 
 
+Sources:<br>
+---------
+The Meal API - https://www.themealdb.com/api.php <br>
+Google <br>
+Mdn Web Docs - https://developer.mozilla.org/en-US/ <br>
+YouTube
+
 Github Link  :
 -------------
 https://github.com/mohidul4555/Meals-App
@@ -35,9 +42,4 @@ Author :
 ------------
 Mohidul Islam
 
-Sources:<br>
----------
-The Meal API - https://www.themealdb.com/api.php <br>
-Google <br>
-Mdn Web Docs - https://developer.mozilla.org/en-US/ <br>
-YouTube
+
