@@ -29,3 +29,7 @@ Demo :
 -----------
 https://mohidul4555.github.io/Meals-App/
 
+
+Author :
+------------
+Mohidul Islam
